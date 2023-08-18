@@ -135,24 +135,25 @@ ai_brain.predict(X_n1_1)
 
 ## Dataset Information
 
-![img 2](https://github.com/Ramsai1234/basic-nn-model/assets/94269989/d3b9abae-5ec5-4e94-a688-c03459eaefca)
+![1](https://github.com/Hp9806/basic-nn-model/assets/94154621/67a65fa5-fa44-48de-85ad-570db5f9adc2)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![img 3](https://github.com/Ramsai1234/basic-nn-model/assets/94269989/a66acf89-8b42-4510-b2d8-651766f2f50a)
+![2](https://github.com/Hp9806/basic-nn-model/assets/94154621/f91b326a-4b1d-4ecd-a7f9-20c2db431adc)
 
 
 ### Test Data Root Mean Squared Error
 
-![img 3](https://github.com/Ramsai1234/basic-nn-model/assets/94269989/695711bd-dd42-4a14-b7cb-626add913731)
+![2](https://github.com/Hp9806/basic-nn-model/assets/94154621/f91b326a-4b1d-4ecd-a7f9-20c2db431adc)
 
 
 ### New Sample Data Prediction
+![3](https://github.com/Hp9806/basic-nn-model/assets/94154621/3c8e30bd-e523-43dc-9276-f145bda5393c)
 
-![img 4](https://github.com/Ramsai1234/basic-nn-model/assets/94269989/e9c7378b-6f5c-448e-97da-5742e735dbb1)
 
 
 ## RESULT
